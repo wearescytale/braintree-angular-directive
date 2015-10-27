@@ -1,0 +1,30 @@
+{
+  "name": "braintree-angular-directive",
+  "version": "1.0.0",
+  "homepage": "https://github.com/wearescytale/braintree-angular-directive",
+  "authors": [
+    "Nelson Brandão <nelsonbrandao800@gmail.com>"
+  ],
+  "description": "Braintree directives for Angular.JS",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "braintree",
+    "angular",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7"
+  },
+  "devDependencies": {
+    "braintree-web": "~2.15.2"
+  }
+}
